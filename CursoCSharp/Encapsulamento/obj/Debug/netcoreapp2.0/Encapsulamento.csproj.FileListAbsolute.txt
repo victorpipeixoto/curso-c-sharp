@@ -7,3 +7,14 @@ C:\Users\Cod3r\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\E
 C:\Users\Cod3r\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfo.cs
 C:\Users\Cod3r\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.dll
 C:\Users\Cod3r\source\repos\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.pdb
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.deps.json
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.dll
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\bin\Debug\netcoreapp2.0\Encapsulamento.pdb
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.AssemblyReference.cache
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.AssemblyInfo.cs
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.sourcelink.json
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.dll
+D:\UTIL\victor\CSHARP\curso-c-sharp\CursoCSharp\Encapsulamento\obj\Debug\netcoreapp2.0\Encapsulamento.pdb
